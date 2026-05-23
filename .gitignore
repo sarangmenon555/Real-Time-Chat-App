@@ -38,5 +38,3 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
-
-docker-compose.yml
